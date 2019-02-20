@@ -21,8 +21,9 @@ import pathlib
 
 font = ImageFont.truetype("arial.ttf", 20)
 
-PATH_FILE_JSON_1 = 'usadi.json'
-POSELOK_DIR_PATH = PATH_FILE_JSON_1[:-5]
+PATH_FILE_JSON_1 = 'STB.json'
+#POSELOK_DIR_PATH = PATH_FILE_JSON_1[:-5]
+POSELOK_DIR_PATH = 'stolbishi'
 ##DIR_PATH = ''
 #ANKERNYE_FILE = 'ankernye.txt'
 
